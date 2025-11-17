@@ -1,9 +1,8 @@
 ### Software Engineer | Full-Stack Developer 
 
-💻  Driven by creativity and a passion for software engineering — from robust backend architectures to intuitive web experiences.
-🌿 Constantly exploring new tools, frameworks, and best practices to grow as a full-stack developer.
-📬 Reach me at: yasmine.abderrahmen08@gmail.com
----
+💻  Driven by creativity and a passion for software engineering — from robust backend architectures to intuitive mobile and web experiences.  
+🌿 Constantly exploring new tools, frameworks, and best practices to grow as a full-stack developer.  
+📨 Contact: yasmine.abderrahmen@gmail.com
 
 ## 🧰 Languages & Tools
 
